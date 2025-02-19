@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning python part of computing
 - 💞️ I’m looking to collaborate on all projects
 - 📫 you can reach me via email if you wish to
-- 😄 Pronouns: :D
+- 😄 Pronouns: She/Her
 - ⚡ Fun fact: No Fact
 
 <!---
