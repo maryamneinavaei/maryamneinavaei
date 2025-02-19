@@ -2,7 +2,7 @@
 - 👀 I’m interested in web and Mobile development
 - 🌱 I’m currently learning python part of computing
 - 💞️ I’m looking to collaborate on all projects
-- 📫 you reach me via email
+- 📫 you can reach me via email if you wish to
 - 😄 Pronouns: :D
 - ⚡ Fun fact: No Fact
 
